@@ -1,0 +1,14 @@
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.exe
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.deps.json
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.runtimeconfig.json
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.dll
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\bin\Debug\net8.0\DoorMachine.pdb
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.AssemblyInfoInputs.cache
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.AssemblyInfo.cs
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.csproj.CoreCompileInputs.cache
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.dll
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\refint\DoorMachine.dll
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.pdb
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\DoorMachine.genruntimeconfig.cache
+C:\perkuliahan\KPL\CODE\DoorMachine\DoorMachine\obj\Debug\net8.0\ref\DoorMachine.dll
